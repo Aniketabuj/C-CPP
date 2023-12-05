@@ -1,0 +1,10 @@
+Propositional Logic Identities
+
+not ~
+and ^
+or v
+equivalent  ==
+
+1) Identity Laws
+   p ^ T == P
+   p v T == p
